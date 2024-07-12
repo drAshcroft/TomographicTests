@@ -8,12 +8,12 @@ This repository contains a simple educational program written in C# that perform
 
 ## Features
 
-###2D
+### 2D
 - **Tomographic Projection**: Simulate the projection of a 2D object.
 - **Backprojection**: Reconstruct the 2D object from its projections.
 - **Visualization**: Display the original object, its projections, and the reconstructed image.
 
-###3D
+### 3D
 - **Tomographic Projection**: Simulate the projection of a 3D object.
 - **Backprojection**: Reconstruct the 3D object from its projections.
 - **Visualization**: Display the original object, its projections, and the reconstructed image.
